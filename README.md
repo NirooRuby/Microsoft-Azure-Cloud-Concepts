@@ -3,7 +3,16 @@ Microsoft Azure Cloud Concepts
 
 Azure AZ-900| AZ-104 
 
-Day 1
+Day 1 - Undestanding basics of cloud concepts.
+     * raditional IT versus cloud computing
+     * What is Cloud computing?
+     * Cloud deployment models
+     * CapEx versus OpEx
+     * Cloud service models
+     * Shared responsibility
+     * Important cloud benefits
+     * Consumption-based pricing
+
 
 Day 2
 
